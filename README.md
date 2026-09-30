@@ -191,11 +191,10 @@ for this project, replacing the breadboard prototype.
 
 ## Future Improvements
 
-I am planning to add an ESP8266 receiver node that subscribes to the same MQTT topic and triggers a buzzer alert locally when temperature crosses the threshold — this is exactly the kind of multi-device real-time use case that makes MQTT the right choice over HTTP.
+This project was built as a data collection foundation for an Edge anomaly detector running on the ESP32 itself.
 
-Beyond that, this project was built as a data collection foundation for an Edge TinyML anomaly detector running on the ESP32 itself.
-
-> Instead of hardcoded thresholds (`if temp > 35`), a tiny ML model will learn what *normal* looks like
+> Using the collected dataset we can find out the Mean, SD and the Rate of Change of Temperature and Humidity.
+> So instead of hardcoded thresholds (`if temp > 35`), an Edge system will learn what *normal* looks like using the Statistical model
 > and flag anomalies automatically — no cloud inference, no fixed rules.
 
 ---
