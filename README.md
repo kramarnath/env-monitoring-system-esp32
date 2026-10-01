@@ -167,7 +167,8 @@ for this project, replacing the breadboard prototype.
 
 <table>
   <tr>
-    <td align="center"><img src="images/pcb/schematic.png" alt="Schematic" height="200"/></td>
+    <td align="center"><img src="images/images/schematic.png" alt="Schematic" height="200"/></td>
+    <td align="center"><img src="images/images/pcb.png" alt="PCB Layout" height="200"/></td>
   </tr>
 </table>
 
@@ -175,8 +176,8 @@ for this project, replacing the breadboard prototype.
 
 <table>
   <tr>
-    <td align="center"><img src="images/pcb/pcb_fcu.png" alt="PCB Layout" height="200"/></td>
-    <td align="center"><img src="images/pcb/pcb_bcu.png" alt="PCB Layout" height="200"/></td>
+    <td align="center"><img src="images/images/pcb_fcu.png" alt="PCB Layout" height="200"/></td>
+    <td align="center"><img src="images/images/pcb_bcu.png" alt="PCB Layout" height="200"/></td>
   </tr>
 </table>
 
@@ -184,8 +185,8 @@ for this project, replacing the breadboard prototype.
 
 <table>
   <tr>
-   <td align="center"><img src="images/pcb/3D_front.png" alt="3D View" height="200"/></td>
-    <td align="center"><img src="images/pcb/3D_back.png" alt="3D View" height="200"/></td>
+   <td align="center"><img src="images/images/3D_front.png" alt="3D View" height="200"/></td>
+    <td align="center"><img src="images/images/3D_back.png" alt="3D View" height="200"/></td>
   </tr>
 </table>
 
